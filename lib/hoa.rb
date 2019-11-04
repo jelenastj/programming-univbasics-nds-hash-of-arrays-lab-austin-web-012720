@@ -9,5 +9,5 @@ def add_character(show, name)
 
   
    BASE_HOA[:jetsons]<< "Astro"
-   BASE_HOA
+   BASE_HOA[:jetsons]
 end
